@@ -164,7 +164,8 @@ img {
 }
 
 .second-list {
-  width: calc((100% - 3 * 24px) / 4);
+  width: 100%;
+  min-width: 264px;
 }
 
 .third-section {
